@@ -38,10 +38,7 @@ public class ThirtyDaysofCodeDay6alt {
                 solution += input.charAt(i);
             }
         }
-
         System.out.println(solution);
         solution = "";
     }
-
-
 }
