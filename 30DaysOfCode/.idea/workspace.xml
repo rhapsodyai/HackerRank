@@ -16,31 +16,6 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ThirtyDaysofCodeDay6alt.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ThirtyDaysofCodeDay6alt.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="42" column="5" lean-forward="false" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Book.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ThirtyDaysOfCode13/Book.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="3" />
-              <folding>
-                <element signature="e#28#76#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="MyBook.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ThirtyDaysOfCode13/MyBook.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -90,7 +65,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ThirtyDaysOfCode15.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ThirtyDaysOfCode15.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ThirtyDaysOfCode15.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="706">
@@ -116,25 +91,61 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ThirtyDaysOfCode17.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ThirtyDaysOfCode17.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ThirtyDaysOfCode17.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="31" lean-forward="false" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ThirtyDaysOfCode11.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ThirtyDaysOfCode11.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="42" column="1" lean-forward="false" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
+            <state relative-caret-position="285">
+              <caret line="19" column="27" lean-forward="false" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ThirtyDaysOfCode18.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ThirtyDaysOfCode18.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="18" lean-forward="false" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#229#240#0" expanded="true" />
+                <element signature="e#292#303#0" expanded="true" />
+                <element signature="e#344#345#0" expanded="true" />
+                <element signature="e#378#379#0" expanded="true" />
+                <element signature="e#419#420#0" expanded="true" />
+                <element signature="e#452#453#0" expanded="true" />
+                <element signature="e#482#483#0" expanded="true" />
+                <element signature="e#520#521#0" expanded="true" />
+                <element signature="e#554#555#0" expanded="true" />
+                <element signature="e#595#596#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ThirtyDaysOfCode19.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ThirtyDaysOfCode19.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" column="19" lean-forward="true" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ThirtyDaysOfCode20.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ThirtyDaysOfCode20.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="31" lean-forward="false" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -185,6 +196,9 @@
         <option value="$PROJECT_DIR$/src/ThirtyDaysOfCode14/Solution.java" />
         <option value="$PROJECT_DIR$/src/ThirtyDaysOfCode15.java" />
         <option value="$PROJECT_DIR$/src/ThirtyDaysOfCode16.java" />
+        <option value="$PROJECT_DIR$/src/ThirtyDaysOfCode17.java" />
+        <option value="$PROJECT_DIR$/src/ThirtyDaysOfCode18.java" />
+        <option value="$PROJECT_DIR$/src/ThirtyDaysOfCode19.java" />
       </list>
     </option>
   </component>
@@ -638,35 +652,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ThirtyDaysOfCode1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="9" column="30" lean-forward="false" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ThirtyDaysOfCode7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="8" column="32" lean-forward="false" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ThirtyDaysOfCode8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="4" column="24" lean-forward="false" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ThirtyDaysOfCode9.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -1114,10 +1099,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ThirtyDaysOfCode15.java">
+    <entry file="file://$PROJECT_DIR$/src/ThirtyDaysOfCode20.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="706">
-          <caret line="53" column="5" lean-forward="false" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
+        <state relative-caret-position="45">
+          <caret line="3" column="31" lean-forward="false" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThirtyDaysOfCode19.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="19" lean-forward="true" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThirtyDaysOfCode18.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="18" lean-forward="false" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#229#240#0" expanded="true" />
+            <element signature="e#292#303#0" expanded="true" />
+            <element signature="e#344#345#0" expanded="true" />
+            <element signature="e#378#379#0" expanded="true" />
+            <element signature="e#419#420#0" expanded="true" />
+            <element signature="e#452#453#0" expanded="true" />
+            <element signature="e#482#483#0" expanded="true" />
+            <element signature="e#520#521#0" expanded="true" />
+            <element signature="e#554#555#0" expanded="true" />
+            <element signature="e#595#596#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ThirtyDaysOfCode17.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="27" lean-forward="false" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="imports" expanded="true" />
@@ -1136,11 +1161,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ThirtyDaysOfCode17.java">
+    <entry file="file://$PROJECT_DIR$/src/ThirtyDaysOfCode15.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="31" lean-forward="false" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
-          <folding />
+        <state relative-caret-position="706">
+          <caret line="53" column="5" lean-forward="false" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
