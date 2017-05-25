@@ -5,16 +5,16 @@
 import java.io.*;
 import java.util.*;
 
-class Node {
-    int data;
-    Node next;
-    Node(int d) {
-        data = d;
-        next = null;
-    }
-}
-
 public class ThirtyDaysOfCode15 {
+    static class Node {
+        int data;
+        Node next;
+        Node(int d) {
+            data = d;
+            next = null;
+        }
+    }
+
     public static  Node insert(Node head, int data) {
         //Complete this method
         Node n = new Node(data);
