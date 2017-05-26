@@ -56,7 +56,7 @@ public class ThirtyDaysOfCode22 {
             return root;
         }
     }
-    
+
     public static void main(String args[]){
         Scanner sc=new Scanner(System.in);
         int T=sc.nextInt();
