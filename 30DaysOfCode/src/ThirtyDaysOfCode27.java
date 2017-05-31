@@ -19,8 +19,8 @@ public class ThirtyDaysOfCode27 {
         System.out.println("5 2");
         System.out.println("-1 0 1 0 0");
         System.out.println("10 5");
-        System.out.println("0 1 2 3 4 5 6 7 8 9");
+        System.out.println("0 -1 2 3 4 5 6 7 8 9");
         System.out.println("6 3");
-        System.out.println("7 7 6 6 5 5 0 1 2 3");
+        System.out.println("7 7 6 6 0 -5");
     }
 }
